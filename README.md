@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanstar5
+- 👋 Hi, I’m @Tanumoy
 - 👀 I’m interested in Physics and coding, making dynamic machines, IoT, devices
 - 🌱 I’m currently learning about algorithms of life
 - 💞️ I’m looking to collaborate on device development, Image processing, AI
