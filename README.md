@@ -76,7 +76,7 @@ funded by **PUNCH4NFDI**, with **DZA Görlitz** and **HTW Berlin**.
   </tr>
 </table>
 
-## 🧬 PhD Projects
+## 🎓 PhD Projects
 
 Developed **digital twin models of cellular membranes**, focusing on **lipid self-organization driven by membrane curvature**.  
 Additionally, designed and implemented **image-processing pipelines** to quantify **membrane dynamics** and **collective cell migration**.
