@@ -9,7 +9,7 @@ Hi, I’m **Tanumoy Saha** — a **Physicist** trained in **Computer Vision**, w
 
 ### 📫 Reach Me
 - 📧 Email: tanumoysaha5@gmail.com  
-- 💼 LinkedIn: [Tanumoy Saha](https://www.linkedin.com)
+- 💼 LinkedIn: [Tanumoy Saha](https://www.linkedin.com/in/tanumoy-saha-phd-9916b258/)
 
 
 ## 🧰 Tech Stack
