@@ -58,6 +58,58 @@ funded by **PUNCH4NFDI**, with **DZA Görlitz** and **HTW Berlin**.
   </tr>
 </table>
 
+<h3>
+  <img src="docs/logo_torchrender3d.png" width="36" style="vertical-align: middle;">
+  Torchrender3D — A Simple CNN Visualization Tool
+</h3>
+
+[![GitLab](https://img.shields.io/badge/GitLab-View_Project-orange?style=flat&logo=gitlab)](https://gitlab.com/ml-ppa-derivatives/torchrender3d)
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/simple_cnn_param.gif" width="100%" alt="Torchrender3D visualization demo 1">
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/output_frames_with_box_widget_scrolling.gif" width="100%" alt="Torchrender3D visualization demo 2">
+    </td>
+  </tr>
+</table>
+
+## 🧬 PhD Projects
+
+Developed **digital twin models of cellular membranes**, focusing on **lipid self-organization driven by membrane curvature**.  
+Additionally, designed and implemented **image-processing pipelines** to quantify **membrane dynamics** and **collective cell migration**.
+
+**Publications:**
+- 📄 *Physics of collective cell migration*  
+  **Nature Physics (2019)** — https://www.nature.com/articles/s41567-019-0505-9
+- 📄 *Curvature-driven lipid self-organization in cellular membranes*  
+  **bioRxiv (2024)** — https://www.biorxiv.org/content/10.1101/2024.06.25.600357v1.abstract
+- 📄 *Collective migration dynamics in cellular systems*  
+  **Soft Matter, RSC (2023)** — https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01260j/unauth
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/membrane_dynamics_phd_work.gif" width="100%" alt="Digital twin simulation of membrane dynamics">
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/collective_mig_phd_work.gif" width="100%" alt="Quantification of collective cell migration">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="docs/kilobots.gif" width="100%" alt="Kilobots collective behavior">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
