@@ -1,11 +1,28 @@
-## Welcome to My Profile 
-- 👋 Hi, I’m @Tanumoy
-- 👀 I’m interested in Physics, Automation & Robotics, Machine Learning
-- 🌱 Trained as Physicist | Computer Vision
-- 💞️ Looking for opportunities or collaboration in device development, Image processing, ML
-- 📫 Reach me:
-  - 📧 Email: [tanumoysaha5@gmail.com](mailto:tanumoysaha5@gmail.com)
-  - 💼 LinkedIn: [Tanumoy Saha](https://www.linkedin.com/in/tanumoy-saha-phd-9916b258/)
+## 👋 Welcome to My Profile
+
+Hi, I’m **Tanumoy Saha** — a **Physicist** trained in **Computer Vision**, working at the intersection of  
+**Physics, Automation & Robotics, and Machine Learning**.
+
+- 🔬 Interests: Physics · Automation & Robotics · Machine Learning  
+- 🎓 Background: Physicist | Computer Vision  
+- 🤝 Open to: Collaboration & opportunities in **device development**, **image processing**, and **ML**
+
+### 📫 Reach Me
+- 📧 Email: tanumoysaha5@gmail.com  
+- 💼 LinkedIn: [Tanumoy Saha](https://www.linkedin.com)
+
+
+## 🧰 Tech Stack
+
+| Area | Tools |
+|-----|------|
+| 💻 **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) |
+| 🤖 **Machine Learning & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
+| 🔬 **Scientific Computing** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) ![Image Processing](https://img.shields.io/badge/Image_Processing-555555) ![Numerical Methods](https://img.shields.io/badge/Numerical_Methods-555555) |
+| 🦾 **CAD & Robotics** | ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?logo=autodesk&logoColor=white) |
+| 🎨 **Design & Illustration** | ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white) |
+| 📊 **Visualization & Tools** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![VTK](https://img.shields.io/badge/VTK-1488C6) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) |
+
 
 ## 🚀 Projects Overview
 
@@ -110,12 +127,3 @@ Additionally, designed and implemented **image-processing pipelines** to quantif
 
 
 
-
-
-
-
-
-<!---
-tanstar5/tanstar5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
