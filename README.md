@@ -18,7 +18,7 @@ funded by **PUNCH4NFDI**, with **DZA Görlitz** and **HTW Berlin**.
     <td width="50%" style="vertical-align: top; text-align: center;">
       <div style="margin-bottom: 8px;">
         <h3 style="margin: 6px 0;">PulsarDT</h3>
-        <p style="margin: 4px 0;">Deep learning–based pulsar detection</p>
+        <p style="margin: 4px 0;">DigitalTwin of Pulsar for synthetic pulse generation</p>
         <a href="https://gitlab.dzastro.de/punch/ml-ppa/pulsardt">
           <img src="https://img.shields.io/badge/GitLab-View_Project-orange?style=flat&logo=gitlab">
         </a>
