@@ -99,11 +99,11 @@ Developed **digital twin models of cellular membranes**, focusing on **lipid sel
 Additionally, designed and implemented **image-processing pipelines** to quantify **membrane dynamics** and **collective cell migration**.
 
 **Publications:**
-- 📄 *Physics of collective cell migration*  
+- 📄 *Physics of cell migration*  
   **Nature Physics (2019)** — https://www.nature.com/articles/s41567-019-0505-9
-- 📄 *Curvature-driven lipid self-organization in cellular membranes*  
-  **bioRxiv (2024)** — https://www.biorxiv.org/content/10.1101/2024.06.25.600357v1.abstract
 - 📄 *Collective migration dynamics in cellular systems*  
+  **bioRxiv (2024)** — https://www.biorxiv.org/content/10.1101/2024.06.25.600357v1.abstract
+- 📄 *Curvature-driven lipid self-organization in cellular membranes*  
   **Soft Matter, RSC (2023)** — https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01260j/unauth
 
 <table>
